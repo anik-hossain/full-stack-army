@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-army",
+  "version": "1.0.0",
+  "description": "Full Stack Army by Stack Learner",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "follow-redirects": "^1.14.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anik-hossain/full-stack-army.git"
+  },
+  "author": "Anik Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anik-hossain/full-stack-army/issues"
+  },
+  "homepage": "https://github.com/anik-hossain/full-stack-army#readme"
+}
