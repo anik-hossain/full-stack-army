@@ -14,5 +14,8 @@
     "bugs": {
         "url": "https://github.com/anik-hossain/full-stack-army/issues"
     },
-    "homepage": "https://github.com/anik-hossain/full-stack-army#readme"
+    "homepage": "https://github.com/anik-hossain/full-stack-army#readme",
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
 }
